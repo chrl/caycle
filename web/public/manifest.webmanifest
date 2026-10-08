@@ -1,0 +1,14 @@
+{
+  "name": "caycle",
+  "short_name": "caycle",
+  "description": "Indoor cycling dashboard for Tacx smart trainers",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    { "src": "/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}

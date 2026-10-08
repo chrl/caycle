@@ -1,0 +1,7 @@
+# Build output
+/caycle
+
+# Dependencies
+node_modules/
+
+.DS_Store
